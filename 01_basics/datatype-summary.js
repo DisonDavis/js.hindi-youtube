@@ -27,3 +27,12 @@ const myFunction = function(){
 }
 
 console.log(typeof heros)
+
+//++++++++++++++++++++++++++++++
+
+// Stack (Primitive), Heap (Non-Primitive)
+
+// all variable and refernces save to Stack, 
+// Heap will have reference
+
+//https://excalidraw.com/ for drawing
