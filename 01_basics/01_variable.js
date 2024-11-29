@@ -5,3 +5,4 @@ accountCity = "Bangalore"
 
 //accountId = 2
 console.log(accountId)
+
